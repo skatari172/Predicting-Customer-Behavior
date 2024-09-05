@@ -9,7 +9,9 @@ Features:
 - Evaluation: Model performance is measured using R-squared and RMSE.
 
 Dataset:
+
 Source: Kaggle
+
 Features: Avg. Session Length, Time on App, Time on Website, Length of Membership, Yearly Amount Spent (target)
 
 How to Run:
